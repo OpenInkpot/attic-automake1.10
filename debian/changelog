@@ -1,3 +1,11 @@
+automake1.10 (1:1.10.1-3.oi1) unstable; urgency=low
+
+  * First build for OI:
+    - section adjusted
+    - maintainer changed
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 26 Jul 2008 15:41:00 +0700
+
 automake1.10 (1:1.10.1-3) unstable; urgency=low
 
   * debian/automake.postinst: Bump up the priority to 28 so that it wins

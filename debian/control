@@ -1,7 +1,7 @@
 Source: automake1.10
-Section: devel
+Section: host-tools
 Priority: optional
-Maintainer: Eric Dorland <eric@debian.org>
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
 Standards-Version: 3.7.3
 Build-Depends: cdbs, debhelper (>= 4.1.0)
 Build-Depends-Indep: autoconf (>= 2.60), autotools-dev (>= 20020320.1), texinfo (>= 4.3)
